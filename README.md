@@ -1,4 +1,4 @@
-# COVID19NPIEuropeSecondWave contains datasets describing the non-pharameutical interventions implemented during the second wave of SARS-CoV-2 in Europe
+# COVID19NPIEuropeSecondWave contains a dataset describing the non-pharameutical interventions implemented during the second wave of SARS-CoV-2 in Europe
 
 ---
 
